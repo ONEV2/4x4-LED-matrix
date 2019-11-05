@@ -1,4 +1,4 @@
-## 4x4 LED MATRIX 
+## 4x4 LED MATRIX
 
 ### Description
 #### In this blog we will focus on how to make and code a 4x4 LED matrix using a shift register(SN7HC595N).
@@ -25,7 +25,7 @@
 - #### Do not connect the circuit while arduino is on i.e-when arduino board is powered.
 - #### Individually check all the LED'S before connecting.
 ### Circuit Diagram
-![]()
+![circuit_dia1](https://github.com/ONEV2/4x4-LED-matrix/blob/master/circuit/circuit%20(1).png)
 ### Explanation
 
 | Arduino Uno  |   | Shift Register     |
