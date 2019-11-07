@@ -88,6 +88,6 @@ void loop() {
 ### References
 - ### [SN74HC595N datasheet](http://www.ti.com/lit/ds/symlink/sn74hc595.pdf)
 - ### [online circuit diagram building software](https://www.circuit-diagram.org/editor/)
-- ### [https://medium.com/arduino-playground/using-a-74hc595-to-control-a-led-matrix-84559feee7cd]
+- ### [Referred blog](https://medium.com/arduino-playground/using-a-74hc595-to-control-a-led-matrix-84559feee7cd)
 
 
